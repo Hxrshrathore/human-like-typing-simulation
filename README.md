@@ -32,7 +32,7 @@ This project simulates human typing using Python. The script reads content from 
 
 3. Install the required dependencies:
    ```bash
-   pip install pyautogui
+   pip install pyautogui keyboard
    ```
 
 4. Create a text file named `text_to_type.txt` in the project directory and add the content you want the script to type:
